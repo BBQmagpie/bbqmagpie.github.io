@@ -3,7 +3,7 @@ layout: post
 title: First Day of Working With the Webstie
 excerpt: "Changes made and skills acquired"
 modified: 1/31/2023, 17:33:24
-tags: [journal]
+tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
 ---
