@@ -1,5 +1,5 @@
 ## Introduction
-This is Zhifei Li's personal website. It consists of my introduction, resume and blogs.
+This is Zhifei Li's personal website. It consists of my introduction, resume and blogs. [My Github Page](https://github.com/BBQmagpie)
 
 ## [Getting Started Guide](https://ncsu-libraries.github.io/jekyll-academic-docs/)
 Complete documentation for getting started as well as advanced features of Jekyll Academic can be found at [https://ncsu-libraries.github.io/jekyll-academic-docs/](https://ncsu-libraries.github.io/jekyll-academic-docs/).
