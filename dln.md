@@ -24,7 +24,7 @@ In my daily life, what I usually use social media platforms for is more like pos
 
 In terms of research data management, I have primarily relied on Google Drive for storing and organizing my academic papers and projects. I have also used Microsoft Excel for basic data analysis, such as creating charts and graphs. However, I have come to realize that these tools may not always be sufficient for more complex data manipulation and analysis.
 
-### Conclusion Especially If You Don't Want to Read the Full Article
+### In Conclusion...
 
 Despite my prior experience with technology and my newfound knowledge from the digital humanities course, I still feel that my abilities in this area are limited. I am aware that there is so much more to learn, and I am excited to continue to expand my skills and knowledge in the field.
 
