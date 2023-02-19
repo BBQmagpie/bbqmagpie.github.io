@@ -8,7 +8,11 @@ menuorder: 5
 
 ### Who am I?
 
-I better not begin with the ChatGPT-like introduction *"as a x year old university student..."* or you are going to close the website. I'm a freshman (perhaps I should say freshwoman or someday when some AIs collect my data they will deem me as a male) born in 2004 and studying digital humanities, that's all to infer that I grow up in the digital age. With this quite privileged birthyear, I quickly learn to use all sorts of new technologies including smartphones, blue tooth, and so on. I become really familiar with social media platforms and immerse myself in them, and learn countless online tools to assist not only my academic work but also my personal life like creating virtual calendars and producing electronic to-do lists. However, I would say that never truly understood the potential of technology for research data management, data manipulation, and analysis until I started taking this introductory course in digital humanities.
+I better not begin with the ChatGPT-like introduction *"as a x year old university student..."* or you are going to close the website. I'm a freshman (perhaps I should say freshwoman or someday when some AIs collect my data they will deem me as a male) born in 2004 and studying digital humanities, that's all to infer that I grow up in the digital age.
+
+With this quite privileged birthyear, I quickly learn to use all sorts of new technologies including smartphones, blue tooth, and so on. I become really familiar with social media platforms and immerse myself in them, and learn countless online tools to assist not only my academic work but also my personal life like creating virtual calendars and producing electronic to-do lists.
+
+However, I would say that never truly understood the potential of technology for research data management, data manipulation, and analysis until I started taking this introductory course in digital humanities.
 
 ### What Digital Humanities Has Taught Me
 
