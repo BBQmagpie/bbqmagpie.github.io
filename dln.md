@@ -12,13 +12,13 @@ I better not begin with the ChatGPT-like introduction *"as a x year old universi
 
 ### What Digital Humanities Has Taught Me
 
-**The Good Side of Technology**
+**- The Good Side of Technology**
 
 I usually use Google Scholar and the school library site to convey my research. However, as I take this course, I also get to know about more tools like digital libraries of different regions' cultures which are perfect for specific data collection.
 
 The digital humanities course has also opened my eyes to the vast array of technology and tools available for research data management and analysis. I have learned about tools such as Voyant for data visualization and network analysis, as well as programming languages like R for data manipulation and analysis. I am fascinated by the potential of these tools to revolutionize the way we approach and analyze data, and I am eager to learn more about how to apply them in my academic and professional life.
 
-**But Also Beware of Its Problems**
+**- But Also Beware of Its Problems**
 
 In my daily life, what I usually use social media platforms for is more like posting my personal life and connecting with my friends and family even when they are far away from me. While it is true that they bring convenience and accessibility, I have also become more aware of the potential risks of trusting them too much. These platforms are indubitably pilfering my information, or I wouldn't receive the advertisements of a dress the second day I posted my picture wearing the exact same one on Instagram. Unceasing likes and comments notifications have also given me tremendous stress. It only comes clear to me recently: **social media platform runners don't care a whit about your mental health issue**.
 
