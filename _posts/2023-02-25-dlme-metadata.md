@@ -46,11 +46,17 @@ And remember we are here to talk about the metadata in DLME.
 
 Since I am familiar with arts, I choose three Turkish paintings from the library as an example. I will discuss their existing metadata, using the metadata to find their differences and similarities. I will also talk about the problems or missing parts in the metadata. In addition, I will suggest what other metadata we can add to these paintings to make them more discoverable.
 
-![Fish Still Life](/images/Balikli_Naturmort.png "Fish Still Life") <div align="center"> "Fish Still Life" [^3] </div>
+![Fish Still Life](/images/Balikli_Naturmort.png "Fish Still Life") 
 
-![Dancing](/images/Dansci.png "Dancing") <div align="center"> "Dancing" [^4] </div>
+<div align="center"> "Fish Still Life" [^3] </div>
 
-![Woman by the Sea](/images/Deniz_Kiyisinda_Kiz.png "Woman by the Sea") <div align="center"> "Woman by the Sea" [^3] </div>
+![Dancing](/images/Dansci.png "Dancing") 
+
+<div align="center"> "Dancing" [^4] </div>
+
+![Woman by the Sea](/images/Deniz_Kiyisinda_Kiz.png "Woman by the Sea") 
+
+<div align="center"> "Woman by the Sea" [^3] </div>
 
 ### What can we know by their metadata?
 
