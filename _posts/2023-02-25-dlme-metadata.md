@@ -48,15 +48,21 @@ Since I am familiar with arts, I choose three Turkish paintings from the library
 
 ![Fish Still Life](/images/Balikli_Naturmort.png "Fish Still Life") 
 
-<div align="center"> "Fish Still Life" [^3] </div>
+<div align="center"> "Fish Still Life" </div> 
+
+[^3]
 
 ![Dancing](/images/Dansci.png "Dancing") 
 
-<div align="center"> "Dancing" [^4] </div>
+<div align="center"> "Dancing" </div>
+
+[^4]
 
 ![Woman by the Sea](/images/Deniz_Kiyisinda_Kiz.png "Woman by the Sea") 
 
-<div align="center"> "Woman by the Sea" [^3] </div>
+<div align="center"> "Woman by the Sea" </div>
+
+[^5]
 
 ### What can we know by their metadata?
 
