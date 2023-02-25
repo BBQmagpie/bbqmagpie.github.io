@@ -48,23 +48,15 @@ Since I am familiar with arts, I choose three Turkish paintings from the library
 
 ![Fish Still Life](/images/Balikli_Naturmort.png "Fish Still Life")
 
-<div align="center"> "Fish Still Life" </div>
+<div align="center"> “Balıklı Natürmort.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F779. </div>
 
 ![Dancing](/images/Dansci.png "Dancing") 
 
-<div align="center"> "Dancing"
-
-[^4]
-
-</div>
+<div align="center"> “Dansçı.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F604. </div>
 
 ![Woman by the Sea](/images/Deniz_Kiyisinda_Kiz.png "Woman by the Sea") 
 
-<div align="center"> "Woman by the Sea"
-
-[^5]
-
-</div>
+<div align="center"> “Deniz Kıyısında Kız.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F760. </div>
 
 ### What can we know by their metadata?
 
@@ -90,9 +82,3 @@ information of authors
 [^1]: “Metadata.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Metadata#:~:text=Metadata%20is%20%22data%20that%20provides,used%20for%20discovery%20and%20identification. 
 
 [^2]: “Discoverability.” Wikipedia, Wikimedia Foundation, 3 Feb. 2023, https://en.wikipedia.org/wiki/Discoverability. 
-
-[^3]: “Balıklı Natürmort.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F779.
-
-[^4]: “Dansçı.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F604. 
-
-[^5]: “Deniz Kıyısında Kız.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F760. 
