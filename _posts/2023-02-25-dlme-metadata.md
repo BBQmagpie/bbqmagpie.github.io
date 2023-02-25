@@ -50,13 +50,16 @@ Since I am familiar with arts, I choose three Turkish paintings from the library
 
 <div align="center"> “Balıklı Natürmort.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F779. </div>
 
+
 ![Dancing](/images/Dansci.png "Dancing") 
 
 <div align="center"> “Dansçı.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F604. </div>
 
+
 ![Woman by the Sea](/images/Deniz_Kiyisinda_Kiz.png "Woman by the Sea") 
 
 <div align="center"> “Deniz Kıyısında Kız.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F760. </div>
+
 
 ### What can we know by their metadata?
 
