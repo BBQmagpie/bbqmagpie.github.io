@@ -31,6 +31,7 @@ Your assignment should be about 1000 words long, with several images, embedded l
 ## So First of All, What is Metadata?
 
 I don't want to offend anyone, but, if you are not an expert in digital humanities, you might probably not know what **metadata** is. Don't worry, I have checked it up on Wikipedia for you. **Metadata** is a kind of data that provides information about other data besides the data's original content[^1].
+[^1]: “Metadata.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Metadata#:~:text=Metadata%20is%20%22data%20that%20provides,used%20for%20discovery%20and%20identification. 
 
 For example, if you are browsing through an electronic book website, you can probably see that the books are given different category tags like fiction or short novel collections and so on. This kind of information tells you how the books are divided by their genres and you may also infer a closer relationship or more possible similarity between two books under the same category. 
 
@@ -60,5 +61,5 @@ And remember we are here to talk about the metadata in DLME. Since I am familiar
 
 
 **Reference**
-[^1]: “Metadata.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Metadata#:~:text=Metadata%20is%20%22data%20that%20provides,used%20for%20discovery%20and%20identification. 
+
 [^2]: “Discoverability.” Wikipedia, Wikimedia Foundation, 3 Feb. 2023, https://en.wikipedia.org/wiki/Discoverability. 
