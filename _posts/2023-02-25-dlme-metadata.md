@@ -28,10 +28,10 @@ Your assignment should be about 1000 words long, with several images, embedded l
 
 # Digital Library of the Middle East (DLME) and Its Metadata
 
+
 ## So First of All, What is Metadata?
 
 I don't want to offend anyone, but, if you are not an expert in digital humanities, you might probably not know what **metadata** is. Don't worry, I have checked it up on Wikipedia for you. **Metadata** is a kind of data that provides information about other data besides the data's original content[^1].
-[^1]: “Metadata.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Metadata#:~:text=Metadata%20is%20%22data%20that%20provides,used%20for%20discovery%20and%20identification. 
 
 For example, if you are browsing through an electronic book website, you can probably see that the books are given different category tags like fiction or short novel collections and so on. This kind of information tells you how the books are divided by their genres and you may also infer a closer relationship or more possible similarity between two books under the same category. 
 
@@ -42,7 +42,15 @@ In other words, metadata increases the **discoverability**, "the degree to which
 
 ## Metadata of Paintings in DLME
 
-And remember we are here to talk about the metadata in DLME. Since I am familiar with arts, I choose three turkish paintings from the library as an example. I will discuss 
+And remember we are here to talk about the metadata in DLME.
+
+Since I am familiar with arts, I choose three Turkish paintings from the library as an example. I will discuss their existing metadata, using the metadata to find their differences and similarities. I will also talk about the problems or missing parts in the metadata. In addition, I will suggest what other metadata we can add to these paintings to make them more discoverable.
+
+![Fish Still Life](/images/Balikli_Naturmort.png "Fish Still Life") [^3]
+
+![Dancing](/images/Dansci.png "Dancing") [^4]
+
+![Woman by the Sea](/images/Deniz_Kiyisinda_Kiz.png "Woman by the Sea") [^5]
 
 ### What can we know by their metadata?
 
@@ -65,4 +73,12 @@ information of authors
 
 **Reference**
 
+[^1]: “Metadata.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Metadata#:~:text=Metadata%20is%20%22data%20that%20provides,used%20for%20discovery%20and%20identification. 
+
 [^2]: “Discoverability.” Wikipedia, Wikimedia Foundation, 3 Feb. 2023, https://en.wikipedia.org/wiki/Discoverability. 
+
+[^3]: “Balıklı Natürmort.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F779.
+
+[^4]: “Dansçı.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F604. 
+
+[^5]: “Deniz Kıyısında Kız.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F760. 
