@@ -46,12 +46,15 @@ And remember we are here to talk about the metadata in DLME. Since I am familiar
 
 ### What can we know by their metadata?
 
+table of know information
 
 ### What are missing? What are not clear?
 
+mismatch due to different languages
 
-### 
+### What should we add?
 
+information of authors
 
 
 ## In Conclusion...
