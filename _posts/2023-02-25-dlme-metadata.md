@@ -48,11 +48,7 @@ Since I am familiar with arts, I choose three Turkish paintings from the library
 
 ![Fish Still Life](/images/Balikli_Naturmort.png "Fish Still Life")
 
-<div align="center"> "Fish Still Life" 
-
-[^3]
-
-</div>
+<div align="center"> "Fish Still Life" </div>
 
 ![Dancing](/images/Dansci.png "Dancing") 
 
