@@ -47,41 +47,46 @@ And remember we are here to talk about the metadata in DLME.
 Since I am familiar with arts, I choose three Turkish paintings from the library as an example. I will discuss their existing metadata, using the metadata to find their differences and similarities. I will also talk about the problems or missing parts in the metadata. In addition, I will suggest what other metadata we can add to these paintings to make them more discoverable.
 
 ![Fish Still Life](/images/Balikli_Naturmort.png "Fish Still Life")
-
 <div align="center"> “Balıklı Natürmort.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F779. </div>
 
-
 ![Dancing](/images/Dansci.png "Dancing") 
-
 <div align="center"> “Dansçı.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F604. </div>
 
-
 ![Woman by the Sea](/images/Deniz_Kiyisinda_Kiz.png "Woman by the Sea") 
-
 <div align="center"> “Deniz Kıyısında Kız.” DLME, https://dlmenetwork.org/library/catalog/ResimKlksyn%2F760. </div>
 
 
-### What can we know by their metadata?
+### - What can we know by their metadata?
 
 table of know information
 
-### What are missing? What are not clear?
+create a search engine query
+
+### - What are missing? What are not clear?
 
 mismatch due to different languages
 
-### What should we add?
+not searchable in both libraries
+
+not enough information, only materials, title, author and type can be used to discover
+
+types' relationship unclear
+
+### - What should we add?
 
 information of authors
 
 
 ## In Conclusion...
 
-
+digital libraries good way of collecting data and making collections visible online
+still the metadata provided could be improved and searching must be fixed
+will be more and more convenient to do research online instead of going to lib and museums in person
 
 
 
 **Reference**
 
-[^1]: “Metadata.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Metadata#:~:text=Metadata%20is%20%22data%20that%20provides,used%20for%20discovery%20and%20identification. 
+[^1]: “Metadata.” Wikipedia, Wikimedia Foundation, 17 Feb. 2023, https://en.wikipedia.org/wiki/Metadata. 
 
 [^2]: “Discoverability.” Wikipedia, Wikimedia Foundation, 3 Feb. 2023, https://en.wikipedia.org/wiki/Discoverability. 
