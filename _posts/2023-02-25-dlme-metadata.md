@@ -82,7 +82,7 @@ Not to say that there is not enough information to discover the items. For disti
 <div align="center"> Most narrowed search engine query one can make for a Turkish painting. </div>
 
 
-### What Can We Add?
+### - What Can We Add?
 
 These paintings definitely have more differences than simply their titles and creators. For example, their objects already vary: the first painting is of a figure with a scene, while the second one is more of a single figure, and the third is of a still life. Their objects can be used to keep on distinguishing them and dividing them up into even smaller groups. 
 
