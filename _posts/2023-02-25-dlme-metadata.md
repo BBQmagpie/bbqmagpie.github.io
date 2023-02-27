@@ -89,9 +89,10 @@ A simple example already exists. When I translate the Turkish name of the third 
 
 Another thing is for the materials of the first and the third paintings that you may have noticed in the translated chart: what is *duralite*? In the original library, their materials/techniques are given as "oil on hardboard". Meanwhile, my translation is completely based on Google translator as I do not understand Turkish. What if I do not know its original library in the first place? A less common language used for its metadata may lead to misunderstanding of how it is made.
 
-Secondly, I would say the classifications provided are also confusing. It is clear that *painting*, their narrower type, is a kind of *image*, their broader type. Nevertheless, what about their "general" type given--*resim (picture)*? Assume I get the right translation, does it mean that *image* belongs to *picture* or that *picture* belongs to *image* and *painting* belongs to *picture*? I cannot explain it in a common sense, and so does the searching page tell me. In the part where you can refine your searching, the "general" type is not used at all.
+Secondly, I would say the classifications provided are also confusing. It is clear that *painting*, their narrower type, is a kind of *image*, their broader type. Nevertheless, what about their "general" type given--*resim (picture)*? Assume I get the right translation, does it mean that *image* belongs to *picture* or that *picture* belongs to *image* and *painting* belongs to *picture*? I cannot explain it in a common sense, and so does the searching page tell me. Shown in the picture below, in the part where you can refine your searching, the "general" type is not used at all.
 
-
+![Searching page in DLME](/images/refine_your_result.png "Searching page in DLME")
+<div align="center"> How types are used in searching in DLME. </div>
 
 not enough information, only materials, title, author and type can be used to discover
 
