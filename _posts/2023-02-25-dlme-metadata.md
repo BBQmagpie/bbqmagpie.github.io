@@ -58,23 +58,49 @@ Since I am familiar with arts, I choose three Turkish paintings from the library
 
 ### - What can we know by their metadata?
 
-table of know information
+The metadata of each of these paintings are clearly stated in the library, which can be divided into three parts.
 
-create a search engine query
+The first part is the paintings' basic information. From their pages in the digital library, we can easily know, if available, their title, creator, date of creation, size and the materials used to create them. It is important to mention, though, that most of the information is recorded in Turkish, since the metadata are probably from a Turkish library.
+
+|Title|Creator|Date|Materials/Techniques|Measurements|
+|-----|-------|----|--------------------|------------|
+|Deniz Kıyısında Kız|İzzet Ziya, 1880-1934|1917|Duralit üzerine yağlıboya|45.5 x 63 cm|
+|Dansçı|Güran, Nazmi Ziya, 1881-1937|1930|Tuval üzerine yağlıboya|121 x 91 cm|
+|Balıklı Natürmort|Duran, Feyhaman, 1886-1970|1960|Duralit üzerine yağlıboya|61 x 49.5 cm|
+
+For a clearer idea, I translate the chart into English while the translation is not official:
+
+|Title|Creator|Date|Materials/Techniques|Measurements|
+|-----|-------|----|--------------------|------------|
+|Woman by the Sea|İzzet Ziya, 1880-1934|1917|Oil on duralite|45.5 x 63 cm|
+|Dancer|Güran, Nazmi Ziya, 1881-1937|1930|Oil on canvas|121 x 91 cm|
+|Fish Still Life|Duran, Feyhaman, 1886-1970|1960|Oil on duralite|61 x 49.5 cm|
+
+The second part is about their classifications inside the DLME. They all consist of the same type, which is *Resim* (Turkish for *picture*). There are also a narrower type and a broader type listed for them. These three paintings all belong to the *Paintings* narrower type and *image* broader type.
+
+The third part gives information of the original library where these paintings are from--the [Sakip Sabanci Museum](https://www.sakipsabancimuzesi.org/en). Even though the original library supports both English and Turkish, in its English version, only part of the metadata is actually translated into English. For example, the third painting is given an English name *Still-life With Fish*. On the other hand, the first two paintings keep their Turkish names in the English version pages.
+
 
 ### - What are missing? What are not clear?
 
-mismatch due to different languages
+Here we come to its first problem: there is a mismatch due to different languages used.
 
-not searchable in both libraries
+A simple example already exists. When I translate the Turkish name of the third painting into English, I call it "Fish Still Life". However, if it is otherwise officially named in English as "Still-life With Fish", I may not be able to use my translated version to search for its further information online.
+
+Another thing is for the materials of the first and the third paintings that you may have noticed in the translated chart: what is *duralite*? In the original library, their materials/techniques are given as "oil on hardboard". Meanwhile, my translation is completely based on Google translator as I do not understand Turkish. What if I do not know its original library in the first place? A less common language used for its metadata may lead to misunderstanding of how it is made.
+
+Secondly, I would say the classifications provided are also confusing. It is clear that *painting*, their narrower type, is a kind of *image*, their broader type. Nevertheless, what about their "general" type given--*resim (picture)*? Assume I get the right translation, does it mean that *image* belongs to *picture* or that *picture* belongs to *image* and *painting* belongs to *picture*? I cannot explain it in a common sense, and so does the searching page tell me. In the part where you can refine your searching, the "general" type is not used at all.
+
+
 
 not enough information, only materials, title, author and type can be used to discover
 
-types' relationship unclear
 
 ### - What should we add?
 
 information of authors
+
+propose possible search engine query
 
 
 ## In Conclusion...
