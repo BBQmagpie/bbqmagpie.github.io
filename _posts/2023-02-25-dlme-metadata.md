@@ -58,7 +58,7 @@ For a clearer idea, I translate the chart into English while the translation is 
 |Dancer|Güran, Nazmi Ziya, 1881-1937|1930|Oil on canvas|121 x 91 cm|
 |Fish Still Life|Duran, Feyhaman, 1886-1970|1960|Oil on duralite|61 x 49.5 cm|
 
-The second part is about their classifications inside the DLME. They all consist of the same type, which is *Resim* (Turkish for *picture*). There are also a narrower type and a broader type listed for them. These three paintings all belong to the *Paintings* narrower type and *image* broader type.
+The second part is about their classifications inside the DLME. They are all of the same type, which is *Resim* (Turkish for *picture*). There are also a narrower type and a broader type listed for them. These three paintings all belong to the *Paintings* narrower type and *image* broader type.
 
 The third part gives information about the original library where these paintings are from--the [Sakip Sabanci Museum](https://www.sakipsabancimuzesi.org/en). Even though the original library supports both English and Turkish, in its English version, only part of the metadata is actually translated into English. For example, the third painting is given the English name *Still-life With Fish*. On the other hand, the first two paintings keep their Turkish names in the English version pages.
 
@@ -74,12 +74,12 @@ Another thing is for the materials of the first and the third paintings that you
 Secondly, I would say the classifications provided are also confusing. It is clear that *painting*, their narrower type, is a kind of *image*, their broader type. Nevertheless, what about their "general" type given--*resim (picture)*? Assume I get the right translation, does it mean that *image* belongs to *picture* or that *picture* belongs to *image* and *painting* belongs to *picture*? I cannot explain it in common sense, and neither does the search page tell me. As shown in the picture below, in the part where you can refine your search, the "general" type is not used at all.
 
 ![Searching page in DLME](/images/refine_your_result.png "Searching page in DLME")
-<div align="center"> How types are used in searching in DLME. </div>
+<div align="center"> ↑ How types are used in searching in DLME. </div>
 
-Not to say that there is not enough information to discover the items. For distinguishing the paintings, unless you can also specify their creation dates in the "date range" catalog, which only applies to the situation where you are doing research on paintings in a certain era, the maximum you can do is to ask the digital library for a painting of a certain country, and it will return you with hundreds of items under this query. For example, if we want Turkish paintings, 204 items will be returned, and there is no way to narrow down the result to these three painting instances unless we know their exact name or creator.
+Not to say that there is not enough information to discover the items. For distinguishing the paintings, unless you can also specify their creation dates in the "date range" catalog, which only applies to the situation where you are doing research on paintings in a certain era, the maximum you can do is to ask the digital library for a painting of a certain country, and it will return you with hundreds of items under this query. For example, if we want Turkish paintings, 204 items will be returned, and there is no way to narrow down the result to these three painting instances unless we know their exact title or creator's name.
 
-![Maximum search engine query in DLME](/images/refine_your_result.png "Searching for a certain painting")
-<div align="center"> Most narrowed search engine query one can make for a Turkish painting. </div>
+![Maximum search engine query in DLME](/images/searching.png "Searching for a certain painting")
+<div align="center"> ↑ Most narrowed search engine query one can make for a Turkish painting. </div>
 
 
 ### - What Can We Add?
