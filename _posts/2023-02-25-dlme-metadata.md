@@ -54,7 +54,7 @@ For a clearer idea, I translate the chart into English while the translation is 
 
 |Title|Creator|Date|Materials/Techniques|Measurements|
 |-----|-------|----|--------------------|------------|
-|Woman by the Sea|İzzet Ziya, 1880-1934|1917|Oil on duralite|45.5 x 63 cm|
+|Girl by the Sea|İzzet Ziya, 1880-1934|1917|Oil on duralite|45.5 x 63 cm|
 |Dancer|Güran, Nazmi Ziya, 1881-1937|1930|Oil on canvas|121 x 91 cm|
 |Fish Still Life|Duran, Feyhaman, 1886-1970|1960|Oil on duralite|61 x 49.5 cm|
 
@@ -87,6 +87,8 @@ Not to say that there is not enough information to discover the items. For disti
 These paintings definitely have more differences than simply their titles and creators. For example, their objects already vary: the first painting is of a figure with a scene, while the second one is more of a single figure, and the third is of a still life. Their objects can be used to keep on distinguishing them and dividing them up into even smaller groups. 
 
 This is the same for their styles. The first one is more of realism; on the contrary, the second and the third go for impressionism. It is not necessary that each painting can only have one style, but the obvious styles can be a tag of them so that when the researchers look for a certain style, all paintings consisting of that style can be shown together.
+
+We may also include a web of relationships to reflect the connections between different artists. Can this artist be the teacher of another artist? Can these few artists work together in the same gallery? Adding that we translate the text and clarify the classification more properly, things will be much better.
 
 
 ## In Conclusion...
