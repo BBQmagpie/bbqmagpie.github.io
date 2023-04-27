@@ -8,7 +8,7 @@ tags: [presentation]
 category: presentation
 ---
 <section>
-    <section data-background-gradient="linear-gradient(#283b95, #17b2c3)">
+    <section data-background-color="rgb(70, 70, 255)">
       <h2>🦀</h2>
     </section>
     <section data-background-gradient="linear-gradient(to bottom, #79f2d2, #3ca5cf)">
