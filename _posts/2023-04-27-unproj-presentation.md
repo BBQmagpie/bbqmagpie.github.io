@@ -7,8 +7,7 @@ transition: convex
 tags: [presentation]
 category: presentation
 ---
-<section data-markdown>
-  <section>
+<section>
     <section data-background-gradient="linear-gradient(to bottom, #f7e78b, #79f2d2)">
       <h2>🦀</h2>
     </section>
@@ -21,5 +20,4 @@ category: presentation
     <section data-background-gradient="linear-gradient(to bottom, #2747c4, #070d4a)">
       <h2>🪸</h2>
     </section>
-  </section>
 </section>
