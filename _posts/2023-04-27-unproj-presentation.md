@@ -13,20 +13,16 @@ category: presentation
     Maggie Li & Rosanna Zhou
     ---
     <section>
-      <section>
-        ## Scope
-      </section>
-      <section>
-        <section>
-          **Main focus:**
-            - reclaiming Chinese antiques scattered around the world
-        </section>
-        <section> 
-          **Key Aspects:**
-            - justice of ownership
-            - visualization of social issue
-        </section>
-      </section>
+      ## Scope
+    </section>
+    <section>
+      **Main focus:**
+        - reclaiming Chinese antiques scattered around the world
+    </section>
+    <section> 
+      **Key Aspects:**
+        - justice of ownership
+        - visualization of social issue
     </section>
     ---
     <section>
