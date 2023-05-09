@@ -10,11 +10,13 @@ category: presentation
 <section data-markdown>
   <textarea data-template>
     ## Mapping Chinese Antiques Around the World
+    Maggie Li & Rosanna Zhou
     ---
     <section>
       <section>
         ## Scope
       </section>
+      ---
       <section>
         **Main focus:**
           - reclaiming Chinese antiques scattered around the world
