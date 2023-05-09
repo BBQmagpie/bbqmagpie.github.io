@@ -20,7 +20,7 @@ category: presentation
 
   <section data-markdown>
     <textarea data-template>
-      ## Scope
+      ## 1. Scope
     </textarea>
   </section>
 
@@ -47,7 +47,7 @@ category: presentation
 
   <section data-markdown>
     <textarea data-template>
-      ## Data
+      ## 2. Data
     </textarea>
   </section>
 
@@ -69,7 +69,7 @@ category: presentation
 
   <section data-markdown>
     <textarea data-template>
-      ## Techniques
+      ## 3. Techniques
     </textarea>
   </section>
 
@@ -87,13 +87,13 @@ category: presentation
 
   <section data-markdown>
     <textarea data-template>
-      ## Aims
+      ## 4. Aims
     </textarea>
   </section>
 
   <section data-markdown>
     <textarea data-template>
-      tbc
+      ![Mapping Example](/images/unprj/unprj_map.png "Example of Final Mapping")
     </textarea>
   </section>
 
@@ -105,23 +105,7 @@ category: presentation
 <section>
   <section data-markdown>
     <textarea data-template>
-      ## Values & Ethics
-    </textarea>
-  </section>
-  <section data-markdown>
-    <textarea data-template>
-      tbc
-    </textarea>
-  </section>
-</section>
-
-
-
-
-<section>
-  <section data-markdown>
-    <textarea data-template>
-      ## Resources
+      ## 5. Values & Ethics
     </textarea>
   </section>
   <section data-markdown>
@@ -137,7 +121,23 @@ category: presentation
 <section>
   <section data-markdown>
     <textarea data-template>
-      ## Workplan
+      ## 6. Resources
+    </textarea>
+  </section>
+  <section data-markdown>
+    <textarea data-template>
+      tbc
+    </textarea>
+  </section>
+</section>
+
+
+
+
+<section>
+  <section data-markdown>
+    <textarea data-template>
+      ## 7. Workplan
     </textarea>
   </section>
   <section data-markdown>
