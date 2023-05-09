@@ -10,9 +10,19 @@ category: presentation
 <section data-markdown>
   <textarea data-template>
     # Mapping Chinese Antiques Around the World
-    b
     ---
     ## Scope
-    a
+    ---
+    ## Data
+    ---
+    ## Techniques
+    ---
+    ## Aims
+    ---
+    ## Values & Ethics
+    ---
+    ## Resources
+    ---
+    ## Workplan
   </textarea>
 </section>
