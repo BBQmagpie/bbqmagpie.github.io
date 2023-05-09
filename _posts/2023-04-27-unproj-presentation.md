@@ -25,6 +25,15 @@ category: presentation
     </section>
     ---
     ## Data
+    <section>
+      <section>
+        For all Chinese antiques from every museums globally
+        - their current location
+        - their number
+        - their metadata
+        - their origining date and place
+      </section>
+    </section>
     ---
     ## Techniques
     ---
