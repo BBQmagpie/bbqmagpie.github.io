@@ -10,8 +10,9 @@ category: presentation
 <section data-markdown>
   <textarea data-template>
     ## Mapping Chinese Antiques Around the World
-    ---
-    <section>## Scope</section>
+    <section>
+      ## Scope
+    </section>
     <section>
       <section>
         **Main focus:**
