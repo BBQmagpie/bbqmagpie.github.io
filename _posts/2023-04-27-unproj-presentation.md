@@ -27,3 +27,87 @@ category: presentation
     </textarea>
   </section>
 </section>
+
+<section>
+  <section data-markdown>
+    <textarea data-template>
+      ## Data
+    </textarea>
+  </section>
+  <section data-markdown>
+    <textarea data-template>
+      **Main focus:**
+      - reclaiming Chinese antiques scattered around the world
+    </textarea>
+  </section>
+</section>
+
+<section>
+  <section data-markdown>
+    <textarea data-template>
+      ## Techniques
+    </textarea>
+  </section>
+  <section data-markdown>
+    <textarea data-template>
+      **Main focus:**
+      - reclaiming Chinese antiques scattered around the world
+    </textarea>
+  </section>
+</section>
+
+<section>
+  <section data-markdown>
+    <textarea data-template>
+      ## Aims
+    </textarea>
+  </section>
+  <section data-markdown>
+    <textarea data-template>
+      **Main focus:**
+      - reclaiming Chinese antiques scattered around the world
+    </textarea>
+  </section>
+</section>
+
+<section>
+  <section data-markdown>
+    <textarea data-template>
+      ## Values & Ethics
+    </textarea>
+  </section>
+  <section data-markdown>
+    <textarea data-template>
+      **Main focus:**
+      - reclaiming Chinese antiques scattered around the world
+    </textarea>
+  </section>
+</section>
+
+<section>
+  <section data-markdown>
+    <textarea data-template>
+      ## Resources
+    </textarea>
+  </section>
+  <section data-markdown>
+    <textarea data-template>
+      **Main focus:**
+      - reclaiming Chinese antiques scattered around the world
+    </textarea>
+  </section>
+</section>
+
+<section>
+  <section data-markdown>
+    <textarea data-template>
+      ## Workplan
+    </textarea>
+  </section>
+  <section data-markdown>
+    <textarea data-template>
+      **Main focus:**
+      - reclaiming Chinese antiques scattered around the world
+    </textarea>
+  </section>
+</section>
