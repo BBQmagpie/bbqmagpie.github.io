@@ -11,8 +11,10 @@ category: presentation
   <textarea data-template>
     ## Mapping Chinese Antiques Around the World
     ---
-    <section><textarea data-template>## Scope</textarea></section>
     <section>
+      <section>
+        ## Scope
+      </section>
       <section>
         **Main focus:**
           - reclaiming Chinese antiques scattered around the world
@@ -24,8 +26,10 @@ category: presentation
       </section>
     </section>
     ---
-    <section>## Data</section>
     <section>
+      <section>
+        ## Data
+      </section>
       <section>
         **For all Chinese antiques from every museums globally:**
         - their current location
@@ -35,14 +39,34 @@ category: presentation
       </section>
     </section>
     ---
-    ## Techniques
+    <section>
+      <section>
+        ## Techniques
+      </section>
+    </section>
     ---
-    ## Aims
+    <section>
+      <section>
+        ## Aims
+      </section>
+    </section>
     ---
-    ## Values & Ethics
+    <section>
+      <section>
+        ## Values & Ethics
+      </section>
+    </section>
     ---
-    ## Resources
+    <section>
+      <section>
+        ## Resources
+      </section>
+    </section>
     ---
-    ## Workplan
+    <section>
+      <section>
+        ## Workplan
+      </section>
+    </section>
   </textarea>
 </section>
