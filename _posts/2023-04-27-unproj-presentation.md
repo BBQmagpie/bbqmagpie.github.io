@@ -16,16 +16,16 @@ category: presentation
       <section>
         ## Scope
       </section>
-      ---
       <section>
-        **Main focus:**
-          - reclaiming Chinese antiques scattered around the world
-      </section>
-      ---
-      <section> 
-        **Key Aspects:**
-          - justice of ownership
-          - visualization of social issue
+        <section>
+          **Main focus:**
+            - reclaiming Chinese antiques scattered around the world
+        </section>
+        <section> 
+          **Key Aspects:**
+            - justice of ownership
+            - visualization of social issue
+        </section>
       </section>
     </section>
     ---
