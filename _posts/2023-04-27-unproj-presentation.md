@@ -13,8 +13,15 @@ category: presentation
     ---
     ## Scope
     <section>
-      <section>Vertical Slide 1</section>
-      <section>Vertical Slide 2</section>
+      <section>
+        Main focus: 
+          - reclaiming Chinese antiques scattered around the world
+      </section>
+      <section> 
+        Key Aspects: 
+          - justice of ownership
+          - visualization of social issue
+      </section>
     </section>
     ---
     ## Data
