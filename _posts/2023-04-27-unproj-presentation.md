@@ -14,61 +14,93 @@ category: presentation
   </textarea>
 </section>
 
+
+
 <section>
+
   <section data-markdown>
     <textarea data-template>
       ## Scope
     </textarea>
   </section>
+
   <section data-markdown>
     <textarea data-template>
       **Main focus:**
       - reclaiming Chinese antiques scattered around the world
     </textarea>
   </section>
+
+  <section data-markdown>
+    <textarea data-template>
+      **Key Aspects:**
+      - justice of ownership
+      - visualization of social issue
+    </textarea>
+  </section>
+
 </section>
 
+
+
 <section>
+
   <section data-markdown>
     <textarea data-template>
       ## Data
     </textarea>
   </section>
+
   <section data-markdown>
     <textarea data-template>
-      **Main focus:**
-      - reclaiming Chinese antiques scattered around the world
+      **For all Chinese antiques from every museums globally:**
+      - their current location
+      - their number
+      - their metadata
+      - their origining date and place
     </textarea>
   </section>
+
 </section>
 
+
+
 <section>
+
   <section data-markdown>
     <textarea data-template>
       ## Techniques
     </textarea>
   </section>
+
   <section data-markdown>
     <textarea data-template>
-      **Main focus:**
-      - reclaiming Chinese antiques scattered around the world
+      tbc
     </textarea>
   </section>
+
 </section>
 
+
+
 <section>
+
   <section data-markdown>
     <textarea data-template>
       ## Aims
     </textarea>
   </section>
+
   <section data-markdown>
     <textarea data-template>
-      **Main focus:**
-      - reclaiming Chinese antiques scattered around the world
+      tbc
     </textarea>
   </section>
+
 </section>
+
+
+
 
 <section>
   <section data-markdown>
@@ -78,11 +110,13 @@ category: presentation
   </section>
   <section data-markdown>
     <textarea data-template>
-      **Main focus:**
-      - reclaiming Chinese antiques scattered around the world
+      tbc
     </textarea>
   </section>
 </section>
+
+
+
 
 <section>
   <section data-markdown>
@@ -92,11 +126,13 @@ category: presentation
   </section>
   <section data-markdown>
     <textarea data-template>
-      **Main focus:**
-      - reclaiming Chinese antiques scattered around the world
+      tbc
     </textarea>
   </section>
 </section>
+
+
+
 
 <section>
   <section data-markdown>
@@ -106,8 +142,7 @@ category: presentation
   </section>
   <section data-markdown>
     <textarea data-template>
-      **Main focus:**
-      - reclaiming Chinese antiques scattered around the world
+      tbc
     </textarea>
   </section>
 </section>
