@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-# Digital Library of the Middle East (DLME) and Its Metadat
+# Digital Library of the Middle East (DLME) and Its Metadata
 
 
 ## So First of All, What is Metadata?
