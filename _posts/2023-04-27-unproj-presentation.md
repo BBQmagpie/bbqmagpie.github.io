@@ -26,46 +26,34 @@ category: presentation
     </section>
     ---
     <section>
-      <section>
-        ## Data
-      </section>
-      <section>
-        **For all Chinese antiques from every museums globally:**
+      ## Data
+    </section>
+    <section>
+      **For all Chinese antiques from every museums globally:**
         - their current location
         - their number
         - their metadata
         - their origining date and place
-      </section>
     </section>
     ---
     <section>
-      <section>
-        ## Techniques
-      </section>
+      ## Techniques
     </section>
     ---
     <section>
-      <section>
-        ## Aims
-      </section>
+      ## Aims
     </section>
     ---
     <section>
-      <section>
-        ## Values & Ethics
-      </section>
+      ## Values & Ethics
     </section>
     ---
     <section>
-      <section>
-        ## Resources
-      </section>
+      ## Resources
     </section>
     ---
     <section>
-      <section>
-        ## Workplan
-      </section>
+      ## Workplan
     </section>
   </textarea>
 </section>
