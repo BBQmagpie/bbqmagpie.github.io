@@ -16,7 +16,6 @@ category: presentation
       <section>
         ## Scope
       </section>
-      ---
       <section>
         **Main focus:**
           - reclaiming Chinese antiques scattered around the world
