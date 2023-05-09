@@ -11,23 +11,23 @@ category: presentation
   <textarea data-template>
     ## Mapping Chinese Antiques Around the World
     ---
-    ## Scope
     <section>
+    ## Scope
       <section>
-        Main focus: 
+        **Main focus:**
           - reclaiming Chinese antiques scattered around the world
       </section>
       <section> 
-        Key Aspects: 
+        **Key Aspects:**
           - justice of ownership
           - visualization of social issue
       </section>
     </section>
     ---
-    ## Data
     <section>
+    ## Data
       <section>
-        For all Chinese antiques from every museums globally
+        **For all Chinese antiques from every museums globally:**
         - their current location
         - their number
         - their metadata
