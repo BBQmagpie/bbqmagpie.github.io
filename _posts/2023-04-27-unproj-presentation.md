@@ -101,48 +101,84 @@ category: presentation
 
 
 
-
 <section>
+
   <section data-markdown>
     <textarea data-template>
       ## 5. Values & Ethics
     </textarea>
   </section>
+
   <section data-markdown>
     <textarea data-template>
-      tbc
+      - public awareness of lost antiques
+      - reclaiming power of defining national historical relics
     </textarea>
   </section>
+
 </section>
 
 
 
-
 <section>
+
   <section data-markdown>
     <textarea data-template>
       ## 6. Resources
     </textarea>
   </section>
+
   <section data-markdown>
     <textarea data-template>
-      tbc
+      **Required Technology:**
+      - Cartographic representation necessary for the mapping step
+      - AI text analyzing model trained on Classical Chinese is required
     </textarea>
   </section>
+
+  <section data-markdown>
+    <textarea data-template>
+      **Labor Force:**
+      - Website builders required for building the digital archive
+      - Historians to cooperate with NLP AIs
+    </textarea>
+  </section>
+
+  <section data-markdown>
+    <textarea data-template>
+      **Other:**
+      - May need to negotiate with different museums to obtain copyright
+    </textarea>
+  </section>
+
 </section>
 
 
 
-
 <section>
+
   <section data-markdown>
     <textarea data-template>
       ## 7. Workplan
     </textarea>
   </section>
+
   <section data-markdown>
     <textarea data-template>
-      tbc
+      **Main Process:**
+      1-find all Chinese antiques collections from worldwide museums (automized)
+      2-mark them in a world map
+      3-construct a digital archive of the antiques found and unify the metadata
+      4-search for the earliest records of each antique in Chinese history using NLP trained based on Classical Chinese
     </textarea>
   </section>
+
+  <section data-markdown>
+    <textarea data-template>
+      **Possible Further Steps:**
+      - obtain 3D-printed models of antiques unavailable domestically
+      - better visualization of the digital archive utilizing image clustering (or train AI to identify antique's dynasty..?)
+    </textarea>
+  </section>
+
 </section>
