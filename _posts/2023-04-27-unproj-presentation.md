@@ -12,7 +12,7 @@ category: presentation
     ## Mapping Chinese Antiques Around the World
     Maggie Li & Rosanna Zhou
     ---
-    <section data-markdown>
+    <section>
       ## Scope
     </section>
     <section data-markdown>
