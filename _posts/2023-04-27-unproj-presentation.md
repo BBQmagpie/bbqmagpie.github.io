@@ -2,7 +2,7 @@
 layout: slide
 title: Unproject
 excerpt: final unproject presentation
-# theme: blood
+theme: blood
 transition: convex
 tags: [presentation]
 category: presentation
