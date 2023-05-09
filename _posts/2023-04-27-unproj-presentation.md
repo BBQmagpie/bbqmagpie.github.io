@@ -9,9 +9,13 @@ category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    # Mapping Chinese Antiques Around the World
+    ## Mapping Chinese Antiques Around the World
     ---
     ## Scope
+    <section>
+      <section>Vertical Slide 1</section>
+      <section>Vertical Slide 2</section>
+    </section>
     ---
     ## Data
     ---
