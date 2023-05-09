@@ -15,11 +15,9 @@ category: presentation
     <section>
       ## Scope
     </section>
-    <section data-markdown>
-      <textarea data-template>
-        **Main focus:**
-          - reclaiming Chinese antiques scattered around the world
-      </textarea>
+    <section>
+      **Main focus:**
+        - reclaiming Chinese antiques scattered around the world
     </section>
     <section> 
       **Key Aspects:**
