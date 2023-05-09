@@ -75,7 +75,7 @@ category: presentation
 
   <section data-markdown>
     <textarea data-template>
-      ![Example 1](/images/hw3_rococo_example.jpg "Example 1-Baroque? Rococo? Neoclassicism?")
+      tbc
     </textarea>
   </section>
 
