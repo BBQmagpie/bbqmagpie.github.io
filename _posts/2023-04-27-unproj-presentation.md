@@ -166,10 +166,10 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       **Main Process:**
-      1-find all Chinese antiques collections from worldwide museums (automized)
-      2-mark them in a world map
-      3-construct a digital archive of the antiques found and unify the metadata
-      4-search for the earliest records of each antique in Chinese history using NLP trained based on Classical Chinese
+      - 1-find all Chinese antiques collections from worldwide museums (automized)
+      - 2-mark them in a world map
+      - 3-construct a digital archive of the antiques found and unify the metadata
+      - 4-search for the earliest records of each antique in Chinese history using NLP trained based on Classical Chinese
     </textarea>
   </section>
 
