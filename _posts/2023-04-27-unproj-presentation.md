@@ -152,7 +152,8 @@ category: presentation
     <textarea data-template>
       **Required Technology:**
       - Cartographic representation necessary for the mapping step
-      - AI text analyzing model trained on Classical Chinese is required
+      - AI text analyzing model trained on reading Simple and Classical Chinese is required
+      - AI trained to take information from digital libraries (also need to unify metadata)
     </textarea>
   </section>
 
