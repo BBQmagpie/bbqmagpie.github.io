@@ -29,6 +29,13 @@ category: presentation
       **Background:**
       - displaced antiques
       ![Lost Antiques 1](/images/unprj/antique1.jpg "Lost Antiques 1")
+    </textarea>
+  </section>
+
+  <section data-markdown>
+    <textarea data-template>
+      **Background:**
+      - displaced antiques
       ![Lost Antiques 2](/images/unprj/antique2.jpg "Lost Antiques 2")
     </textarea>
   </section>
@@ -55,7 +62,7 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       **Existing literature:**
-      - e.g., "Records of Modern National Treasures Lost Overseas."
+      - e.g., "Records of Modern National Treasures Lost Overseas."  
       ![Records of Modern National Treasures Lost Overseas](/images/unprj/data1.jpg "Records of Modern National Treasures Lost Overseas")
     </textarea>
   </section>
@@ -63,8 +70,8 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       **Digital libraries:**
-      - e.g., "China Art Digital Library"
-      ![China Art Digital Library](/images/unprj/digital_library_2.jpg "China Art Digital Library")
+      - e.g., ["China Art Digital Library"](https://www.eastview.com/resources/e-collections/china-art-digital-library/)
+      ![China Art Digital Library](/images/unprj/digital_library_2.png "China Art Digital Library")
     </textarea>
   </section>
 
