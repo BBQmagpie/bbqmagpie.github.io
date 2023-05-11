@@ -36,13 +36,13 @@ category: presentation
     <textarea data-template>
       **Background:**
       - displaced antiques
-      ![Lost Antiques 2](/images/unprj/antique2.jpg "Lost Antiques 2")
+      ![Lost Antiques 2](/images/unprj/antique2.png "Lost Antiques 2")
     </textarea>
   </section>
 
   <section data-markdown>
     <textarea data-template>
-      **Main Foocus:**
+      **Main Focus:**
       - justification of cultural belonging
     </textarea>
   </section>
