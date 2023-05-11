@@ -186,7 +186,7 @@ category: presentation
 
   <section data-markdown>
     <textarea data-template>
-      **Main Process:**
+      **Repeated Main Process:**
       - 1-find all Chinese antiques collections from worldwide museums (automized)
       - 2-mark them in a world map
       - 3-construct a digital archive of the antiques found and unify the metadata
