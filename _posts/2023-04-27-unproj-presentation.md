@@ -26,16 +26,17 @@ category: presentation
 
   <section data-markdown>
     <textarea data-template>
-      **Main focus:**
-      - reclaiming Chinese antiques scattered around the world
+      **Background:**
+      - displaced antiques
+      ![Lost Antiques 1](/images/unprj/antique1.jpg "Lost Antiques 1")
+      ![Lost Antiques 2](/images/unprj/antique2.jpg "Lost Antiques 2")
     </textarea>
   </section>
 
   <section data-markdown>
     <textarea data-template>
-      **Key Aspects:**
-      - justice of ownership
-      - visualization of social issue
+      **Main Foocus:**
+      - justification of cultural belonging
     </textarea>
   </section>
 
@@ -53,11 +54,17 @@ category: presentation
 
   <section data-markdown>
     <textarea data-template>
-      **For all Chinese antiques from every museums globally:**
-      - their current location
-      - their number
-      - their metadata
-      - their origining date and place
+      **Existing literature:**
+      - e.g., "Records of Modern National Treasures Lost Overseas."
+      ![Records of Modern National Treasures Lost Overseas](/images/unprj/data1.jpg "Records of Modern National Treasures Lost Overseas")
+    </textarea>
+  </section>
+
+  <section data-markdown>
+    <textarea data-template>
+      **Digital libraries:**
+      - e.g., "China Art Digital Library"
+      ![China Art Digital Library](/images/unprj/digital_library_2.jpg "China Art Digital Library")
     </textarea>
   </section>
 
@@ -75,7 +82,10 @@ category: presentation
 
   <section data-markdown>
     <textarea data-template>
-      tbc
+      - natural language processing
+      - image processing
+      - mapping
+      - digitization
     </textarea>
   </section>
 
@@ -88,6 +98,14 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       ## 4. Aims
+    </textarea>
+  </section>
+
+  <section data-markdown>
+    <textarea data-template>
+      - mapping
+      - digital archives
+      - NLP connecting lost antiques to historical records
     </textarea>
   </section>
 
