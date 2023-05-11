@@ -133,6 +133,7 @@ category: presentation
     <textarea data-template>
       - public awareness of lost antiques
       - reclaiming power of defining national historical relics
+      - however, be careful of nationalism
     </textarea>
   </section>
 
