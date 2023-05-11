@@ -43,7 +43,8 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       **Main Focus:**
-      - justification of cultural belonging
+      - justification of cultural belonging  
+      ![Mapping Example](/images/unprj/unprj_map.png "Example of Final Mapping")
     </textarea>
   </section>
 
@@ -113,12 +114,6 @@ category: presentation
       - mapping
       - digital archives
       - NLP connecting lost antiques to historical records
-    </textarea>
-  </section>
-
-  <section data-markdown>
-    <textarea data-template>
-      ![Mapping Example](/images/unprj/unprj_map.png "Example of Final Mapping")
     </textarea>
   </section>
 
