@@ -204,3 +204,17 @@ category: presentation
   </section>
 
 </section>
+
+
+
+<section>
+
+  <section data-markdown>
+    <textarea data-template>
+      ## Team Contribution:  
+      - Zhifei (Maggie) Li-part 5 to 7, slide text
+      - Xiaoyan (Rosanna) Zhou-part 1 to 4, slide images
+    </textarea>
+  </section>
+
+</section>
